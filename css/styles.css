@@ -292,6 +292,8 @@ a > code {
   color: inherit;
 }
 
+a.social-icon.link-youtube:hover {background-color: #a52834 !important;}
+
 kbd {
   padding: 0.1875rem 0.375rem;
   font-size: 0.875em;
