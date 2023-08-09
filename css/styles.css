@@ -286,7 +286,7 @@ code,
   color: var(--bs-code-color);
   background-color: var(--bs-dark);
   word-wrap: break-word;
-  padding: 0.5rem 0 0.5rem 1rem;
+  padding: 0.5rem;
 }
 a > code {
   color: inherit;
