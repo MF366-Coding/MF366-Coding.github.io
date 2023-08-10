@@ -288,6 +288,15 @@ code,
   word-wrap: break-word;
   padding: 0.5rem;
 }
+
+.lead > code,
+td > code,
+li > code {
+  font-family: var(--bs-font-monospace);
+  color: var(--bs-primary);
+  background-color: inherit;
+}
+
 a > code {
   color: inherit;
 }
